@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Sasha\Pictures\ХПИ - УЧЕБА\ДЗ\программирование\lab14\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Sasha\Pictures\ХПИ - УЧЕБА\ДЗ\программирование\lab14\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(22,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Sasha\Pictures\ХПИ - УЧЕБА\ДЗ\программирование\lab14\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
